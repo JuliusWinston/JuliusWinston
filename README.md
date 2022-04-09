@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JuliusWinston
 - I'm fullstack developer who specialises in javascript
-- I have experience with javascript, node js, react js, html, css, bootstrap, python, and dart, 
+- I have experience with javascript, node js, react js, html, css, bootstrap, python, and dart 
 - 👀 I’m interested in web and mobile development
 - 💞️ I’m looking to collaborate on projects involving javascript, node js or python 
 - 📫 Reach me at devwinston35@gmail.com | https:www.linkedin.com/in/julius-winston/
